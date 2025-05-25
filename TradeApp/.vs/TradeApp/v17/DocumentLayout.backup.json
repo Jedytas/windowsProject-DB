@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|c:\\users\\homestationpc\\desktop\\sharp\\tradeapp\\tradeapp\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\productsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\productsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\tradeapp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD8C5E0-4C81-460A-A89E-5967768F5B5F}|TradeApp\\TradeApp.csproj|solutionrelative:tradeapp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractsForm.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ContractsForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ContractsForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ContractsForm.cs",
+              "RelativeToolTip": "TradeApp\\ContractsForm.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAmwPcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:42:57.328Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ContractsForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ContractsForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ContractsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeApp\\ContractsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:36:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\AddPaymentForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\AddPaymentForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\AddPaymentForm.cs",
+              "RelativeToolTip": "TradeApp\\AddPaymentForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:15:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\AddPaymentForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\AddPaymentForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\AddPaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeApp\\AddPaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:14:41.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeApp\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:48:34.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientsForm.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ClientsForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ClientsForm.cs",
+              "RelativeToolTip": "TradeApp\\ClientsForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:07:27.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ClientsForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeApp\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:07:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ProductsForm.cs",
+              "RelativeToolTip": "TradeApp\\ProductsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:33:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeApp\\ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:29:46.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "TradeApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\MainForm.cs",
+              "RelativeToolTip": "TradeApp\\MainForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwH4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:20:35.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\App.config",
+              "RelativeDocumentMoniker": "TradeApp\\App.config",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\App.config",
+              "RelativeToolTip": "TradeApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T00:37:10.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ProductsForm.Designer.cs",
+              "RelativeDocumentMoniker": "TradeApp\\ProductsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\ProductsForm.Designer.cs",
+              "RelativeToolTip": "TradeApp\\ProductsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:24:39.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\Program.cs",
+              "RelativeDocumentMoniker": "TradeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\Program.cs",
+              "RelativeToolTip": "TradeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:13:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\Db.cs",
+              "RelativeDocumentMoniker": "TradeApp\\Db.cs",
+              "ToolTip": "C:\\Users\\HomeStationPC\\Desktop\\SHARP\\TradeApp\\TradeApp\\Db.cs",
+              "RelativeToolTip": "TradeApp\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:06:46.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
